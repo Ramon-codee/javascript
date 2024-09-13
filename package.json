@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Tutorial de Lógica de programação com JavaScripit",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramon-codee/javascript.git"
+  },
+  "author": "Ramon De Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramon-codee/javascript/issues"
+  },
+  "homepage": "https://github.com/Ramon-codee/javascript#readme"
+}
